@@ -222,7 +222,7 @@ mkdir build && cd build && cmake .. && make
 
 ## License
 
-Add your chosen license file (e.g., MIT, Apache-2.0).
+This project is licensed under the [MIT License](LICENSE) © 2025 Pooya Nasiri.
 
 ---
 
